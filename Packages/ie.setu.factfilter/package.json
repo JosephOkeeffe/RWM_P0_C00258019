@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.factfilter",
+  "version": "0.1.0",
+  "displayName": "FactorialFilter",
+  "description": "A filter that replaces each number by its Factorial ",
+  "unity": "2022.3"
+}
